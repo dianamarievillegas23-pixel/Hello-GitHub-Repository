@@ -4,3 +4,4 @@ My First Skill: Creating files
 
 I am learning how to save and track my work using GitHub.
 My next goal: Learn Git branches.
+I am practicing Git branches on GitHub!
